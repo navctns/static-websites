@@ -95,7 +95,7 @@
       >
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
-          style='background-image: url("assets/img/FB_IMG_1604734604800.jpg");'
+          style='background-image: url("/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734604800.jpg");'
         >
           <span
             id="blackOverlay"
@@ -194,31 +194,31 @@
             <!--Image Gallery -->
               <img
                 alt="..."
-                src="assets/img/FB_IMG_1604734637070.jpg"
+                src="/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734637070.jpg"
                 class="shadow-lg  max-w-full mx-auto"
                 style="max-width: 240px;margin-top:10px;"
               />
               <img
                 alt="..."
-                src="assets/img/FB_IMG_1604734681455.jpg"
+                src="/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734681455.jpg"
                 class="shadow-lg  max-w-full mx-auto"
                 style="max-width: 240px;margin-top:10px;"
               />
               <img
                 alt="..."
-                src="/assets/img/FB_IMG_1604734722249.jpg"
+                src="/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734722249.jpg"
                 class="shadow-lg  max-w-full mx-auto"
                 style="max-width: 240px;margin-top:10px;"
               />
               <img
                 alt="..."
-                src="assets/img/FB_IMG_1604734637070.jpg"
+                src="/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734637070.jpg"
                 class="shadow-lg  max-w-full mx-auto"
                 style="max-width: 240px;margin-top:10px;"
               />
               <img
                 alt="..."
-                src="assets/img/FB_IMG_1604734637070.jpg"
+                src="/home/naveen/Pictures/Vimalettan Photos/FB_IMG_1604734637070.jpg"
                 class="shadow-lg  max-w-full mx-auto"
                 style="max-width: 240px;margin-top:20px;"
               />
