@@ -270,7 +270,17 @@
                 type="button"
               >
                 <a target="_blank" href='https://www.facebook.com/vimal556' alt='Broken Link'><i class="flex fab fa-facebook-square"></i></a></button
+              ><button
+                class="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+                type="button"
               >
+                <i class="flex fab fa-dribbble"></i></button
+              ><button
+                class="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
+                type="button"
+              >
+                <i class="flex fab fa-github"></i>
+              </button>
             </div>
           </div>
 
